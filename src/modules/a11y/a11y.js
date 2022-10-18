@@ -20,6 +20,10 @@ export default function A11y({ swiper, extendParams, on }) {
     },
   });
 
+  swiper.a11y = {
+    clicked: false,
+  };
+
   let liveRegion = null;
 
   function notify(message) {
@@ -161,8 +165,19 @@ export default function A11y({ swiper, extendParams, on }) {
     addElLabel($el, message);
     addElControls($el, wrapperId);
   };
+  const handlePointerDown = () => {
+    swiper.a11y.clicked = true;
+  };
+  const handlePointerUp = () => {
+    requestAnimationFrame(() => {
+      requestAnimationFrame(() => {
+        swiper.a11y.clicked = false;
+      });
+    });
+  };
 
   const handleFocus = (e) => {
+    if (swiper.a11y.clicked) return;
     const slideEl = e.target.closest(`.${swiper.params.slideClass}`);
     if (!slideEl || !swiper.slides.includes(slideEl)) return;
     const isActive = swiper.slides.indexOf(slideEl) === swiper.activeIndex;
@@ -171,6 +186,11 @@ export default function A11y({ swiper, extendParams, on }) {
       swiper.visibleSlides &&
       swiper.visibleSlides.includes(slideEl);
     if (isActive || isVisible) return;
+    if (swiper.isHorizontal()) {
+      swiper.el.scrollLeft = 0;
+    } else {
+      swiper.el.scrollTop = 0;
+    }
     swiper.slideTo(swiper.slides.indexOf(slideEl), 0);
   };
 
@@ -253,6 +273,8 @@ export default function A11y({ swiper, extendParams, on }) {
 
     // Tab focus
     swiper.$el.on('focus', handleFocus, true);
+    swiper.$el.on('pointerdown', handlePointerDown, true);
+    swiper.$el.on('pointerup', handlePointerUp, true);
   };
   function destroy() {
     if (liveRegion && liveRegion.length > 0) liveRegion.remove();
@@ -283,6 +305,8 @@ export default function A11y({ swiper, extendParams, on }) {
 
     // Tab focus
     swiper.$el.off('focus', handleFocus, true);
+    swiper.$el.off('pointerdown', handlePointerDown, true);
+    swiper.$el.off('pointerup', handlePointerUp, true);
   }
 
   on('beforeInit', () => {

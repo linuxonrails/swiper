@@ -45,8 +45,10 @@ export default function onTouchStart(event) {
 
   // change target el for shadow root component
   const swipingClassHasValue = !!params.noSwipingClass && params.noSwipingClass !== '';
-  if (swipingClassHasValue && e.target && e.target.shadowRoot && event.path && event.path[0]) {
-    $targetEl = $(event.path[0]);
+  // eslint-disable-next-line
+  const eventPath = event.composedPath ? event.composedPath() : event.path;
+  if (swipingClassHasValue && e.target && e.target.shadowRoot && eventPath) {
+    $targetEl = $(eventPath[0]);
   }
 
   const noSwipingSelector = params.noSwipingSelector

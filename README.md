@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://swiperjs.com/images/share-banner.png"/>
+  <img src="https://swiperjs.com/images/share-banner-3.png"/>
 </p>
 
 <p align="center">
@@ -44,6 +44,26 @@ Swiper is not compatible with all platforms, it is a modern touch slider which i
 <table>
   <tr>
     <td align="center" valign="middle">
+      <a href="https://www.norgescasino.com/" target="_blank">
+        <img src="https://swiperjs.com/images/sponsors/norges-casino.png" alt="Norsk Casino - Norges Beste Online Casino På Nett 2022" width="160">
+      </a>
+    </td>
+    <td align="center" valign="middle">
+      <a href="https://idealecasinos.nl/online-casinos/snel-uitbetalende/" target="_blank">
+        <img src="https://swiperjs.com/images/sponsors/idealecasinos_nl.svg" alt="#1 iDEAL Casino Gids" width="160">
+      </a>
+    </td>
+    <td align="center" valign="middle">
+      <a href="https://www.casinoutanlicens.io/" target="_blank">
+        <img src="https://swiperjs.com/images/sponsors/casinoutanlicens.png" alt="Casino utan svensk licens" width="160">
+      </a>
+    </td>
+    <td align="center" valign="middle">
+      <a href="https://www.nongamstopodds.com/casinos-not-on-gamstop/" target="_blank">
+        <img src="https://swiperjs.com/images/sponsors/nongamstopodds.png" alt="NonGamStopOdds casino sites" width="160">
+      </a>
+    </td>
+    <td align="center" valign="middle">
       <a href="https://www.vpnunlimited.com" target="_blank">
         <img src="https://swiperjs.com/images/sponsors/keepsolid.png" alt="VPN Unlimited – Encrypted, Secure & Private online VPN service" width="160">
       </a>
@@ -63,6 +83,8 @@ Swiper is not compatible with all platforms, it is a modern touch slider which i
         <img src="https://swiperjs.com/images/sponsors/pelisivut.png" alt="Rahapelit netissä - Löydä parhaat pelisivut rahapeleihin" width="160">
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center" valign="middle">
       <a href="https://www.paraskasino.fi" target="_blank">
         <img src="https://swiperjs.com/images/sponsors/paraskasino.png" alt="Paras nettikasino (2021) - Löydä listalta parhaat nettikasinot" width="160">
@@ -83,8 +105,6 @@ Swiper is not compatible with all platforms, it is a modern touch slider which i
         <img src="https://swiperjs.com/images/sponsors/nongamstopwager-com.png" alt="Casinos not on GamStop UK 🏆 NonGamStopWager.com" width="160">
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center" valign="middle">
       <a href="https://appkong.com" target="_blank">
         <img src="https://swiperjs.com/images/sponsors/appkong.png" alt="Custom Web Development Company [AppKong]" width="160">
@@ -105,9 +125,11 @@ Swiper is not compatible with all platforms, it is a modern touch slider which i
         <img src="https://swiperjs.com/images/sponsors/casinot-net.png" alt="Casinot | Tässä parhaat netticasinot 2021 - Katso lista" width="160">
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center" valign="middle">
-      <a href="https://casinoauditor.com" target="_blank">
-        <img src="https://swiperjs.com/images/sponsors/casinoauditor.png" alt="Quality Casinos 2021 ☆ Best Online Casino Sites Review - CasinoAuditor" width="160">
+      <a href="https://casinoauditor.com/online-casinos-cyprus/" target="_blank">
+        <img src="https://swiperjs.com/images/sponsors/casinoauditor.png" alt="Online Casinos Cyprus - CasinoAuditor" width="160">
       </a>
     </td>
     <td align="center" valign="middle">
@@ -122,11 +144,9 @@ Swiper is not compatible with all platforms, it is a modern touch slider which i
     </td>
     <td align="center" valign="middle">
       <a href="https://casinoshunter.com/online-casinos/" target="_blank">
-        <img src="https://swiperjs.com/images/sponsors/casinos-hunter.png" alt="Online Casinos Canada 🏆 Best Online Casinos in Canada for 2021 Review | CasinosHunter" width="160">
+        <img src="https://swiperjs.com/images/sponsors/casinos-hunter.png" alt="Best Online Casinos in Canada" width="160">
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center" valign="middle">
       <a href="https://casinority.com/au/" target="_blank">
         <img src="https://swiperjs.com/images/sponsors/casinority-australia.png" alt="Best online casinos for Australian players" width="160">
@@ -147,9 +167,246 @@ Swiper is not compatible with all platforms, it is a modern touch slider which i
         <img src="https://swiperjs.com/images/sponsors/hex.png" alt="#1 Aussie Gambling Guide" width="160">
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center" valign="middle">
       <a href="https://papersowl.com/pay-for-research-paper" target="_blank">
         <img src="https://swiperjs.com/images/sponsors/papersowl.png" alt="Pay Someone to Write My Research Paper" width="160">
+      </a>
+    </td>
+    <td align="center" valign="middle">
+      <a href="https://nongamstopcasinos.net/" target="_blank">
+        <img src="https://swiperjs.com/images/sponsors/nongamstopcasinos.png" alt="UK Casinos not on GamStop 2022 - nongamstopcasinos.net" width="160">
+      </a>
+    </td>
+    <td align="center" valign="middle">
+      <a href="https://techd.in/" target="_blank">
+        <img src="https://swiperjs.com/images/sponsors/techd.png" alt="Techd.in features 100% real reviews and how-to guides & helps you choose the best products online" width="160">
+      </a>
+    </td>
+    <td align="center" valign="middle">
+      <a href="https://www.gamblingbitcoin.com/" target="_blank">
+        <img src="https://swiperjs.com/images/sponsors/gamblingbitcoin.png" alt="Gambling Bitcoin – BTC Crypto Casino Guide Since 2014" width="160">
+      </a>
+    </td>
+    <td align="center" valign="middle">
+      <a href="https://comunicaformazione.com/" target="_blank">
+        <img src="https://swiperjs.com/images/sponsors/comunicaformazione.png" alt="Corsi e Formazione Professionale" width="160">
+      </a>
+    </td>
+    <td align="center" valign="middle">
+      <a href="https://scommesse.commentierecensioni.com/" target="_blank">
+        <img src="https://swiperjs.com/images/sponsors/scommessecommentierecensioni.png" alt="Migliori siti scommesse: quale il miglior sito scommesse 2022?" width="160">
+      </a>
+    </td>
+    <td align="center" valign="middle">
+      <a href="https://www1.italianonlinecasino.net/" target="_blank">
+        <img src="https://swiperjs.com/images/sponsors/italianonlinecasino.png" alt="Siti scommesse non AAMS | Bookmakers non AAMS 2022" width="160">
+      </a>
+    </td>
+    <td align="center" valign="middle">
+      <a href="https://betpokies.com/" target="_blank">
+        <img src="https://swiperjs.com/images/sponsors/betpokies.png" alt="🥇 Best Australian Online Pokies. Trusted Online Casino Reviews 2022" width="160">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle">
+      <a href="https://www.blick.ch/services/publireportage-jetzt-kredit-beantragen-und-sparen-id17791794.html" target="_blank">
+        <img src="https://swiperjs.com/images/sponsors/blickch.png" alt="Jetzt Kredit beantragen und sparen - Blick" width="160">
+      </a>
+    </td>
+    <td align="center" valign="middle">
+      <a href="https://www.vedonlyontibonukset.com/" target="_blank">
+        <img src="https://swiperjs.com/images/sponsors/vedonlyontibonukset.png" alt="Vedonlyöntibonukset 2022 | Ilmaiset vihjeet | Koutsi hoitaa" width="160">
+      </a>
+    </td>
+    <td align="center" valign="middle">
+      <a href="https://casinoburst.com/casino-utan-licens/" target="_blank">
+        <img src="https://swiperjs.com/images/sponsors/casinoburst.png" alt="Casino utan svensk licens » Utan Spelpaus med BankID | 2022" width="160">
+      </a>
+    </td>
+    <td align="center" valign="middle">
+      <a href="https://www.uudetkasinot.com/" target="_blank">
+        <img src="https://swiperjs.com/images/sponsors/uudetkasinot.png" alt="Uudet kasinot Elokuu 2022 🥇 - Parhaat uudet nettikasinot" width="160">
+      </a>
+    </td>
+    <td align="center" valign="middle">
+      <a href="https://www.spinsify.com/uk/new-casinos/" target="_blank">
+        <img src="https://swiperjs.com/images/sponsors/spinsify.png" alt="Top 25 New Casino Sites August 2022 - Spinsify.com/uk" width="160">
+      </a>
+    </td>
+    <td align="center" valign="middle">
+      <a href="https://thecasinowizard.com/" target="_blank">
+        <img src="https://swiperjs.com/images/sponsors/thecasinowizard.png" alt="The Casino Wizard » Best Casinos & (No) Deposit Bonuses 2022" width="160">
+      </a>
+    </td>
+    <td align="center" valign="middle">
+      <a href="https://www.noneedtostudy.com/take-my-online-class/" target="_blank">
+        <img src="https://swiperjs.com/images/sponsors/noneedtostudy.png" alt="Take My Online Class For Me? NoNeedToStudy.com" width="160">
+      </a>
+    </td>
+    <td align="center" valign="middle">
+      <a href="https://buglelab.io/" target="_blank">
+        <img src="https://swiperjs.com/images/sponsors/buglelab.png" alt="BugleLab - JAMstack development and design" width="160">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle">
+      <a href="https://nzcasinohex.com/" target="_blank">
+        <img src="https://swiperjs.com/images/sponsors/nzcasinohex.png" alt="Best Online Casino NZ ▷ Top New Zealand Casinos [2022]" width="160">
+      </a>
+    </td>
+    <td align="center" valign="middle">
+      <a href="https://plentysocial.com/" target="_blank">
+        <img src="https://swiperjs.com/images/sponsors/plentysocial.png" alt="Buy Instagram Followers PayPal Instantly For $0.50" width="160">
+      </a>
+    </td>
+    <td align="center" valign="middle">
+      <a href="https://coupontoaster.com/" target="_blank">
+        <img src="https://swiperjs.com/images/sponsors/coupontoaster.png" alt="Coupontoaster: August 2022 Discount Codes, Coupons, Promo Codes & Deals" width="160">
+      </a>
+    </td>
+    <td align="center" valign="middle">
+      <a href="https://buzzvoice.com/" target="_blank">
+        <img src="https://swiperjs.com/images/sponsors/buzzvoicecom.png" alt="Buy Followers, Likes, Views & Comments | BuzzVoice.com" width="160">
+      </a>
+    </td>
+    <td align="center" valign="middle">
+      <a href="https://handycasinos24.com/" target="_blank">
+        <img src="https://swiperjs.com/images/sponsors/handycasinos24.png" alt="Compare and test the best Online Casinos, with a strong focus on mobile Casino" width="160">
+      </a>
+    </td>
+    <td align="center" valign="middle">
+      <a href="https://mrcasinova.com/de/" target="_blank">
+        <img src="https://swiperjs.com/images/sponsors/mrcasinova.png" alt="Make the world a better place for Online Casino comparisons" width="160">
+      </a>
+    </td>
+    <td align="center" valign="middle">
+      <a href="https://neuecasinos24.com/" target="_blank">
+        <img src="https://swiperjs.com/images/sponsors/neuecasinos24.png" alt="Ausführliche Informationen an die interessierten Spieler vermitteln um die bestmögliche Auswahl zu ermöglichen" width="160">
+      </a>
+    </td>
+    <td align="center" valign="middle">
+      <a href="https://casinopilot24.com/" target="_blank">
+        <img src="https://swiperjs.com/images/sponsors/casinopilot24.png" alt="Online Casino Deutschland - Beste deutsche Online Casinos 2022" width="160">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle">
+      <a href="https://leafletcasino.com/online-casino/real-money/" target="_blank">
+        <img src="https://swiperjs.com/images/sponsors/leafletcasino.png" alt="Best Real Money Online Casino ➲ Play Online and Win Real Money" width="160">
+      </a>
+    </td>
+    <td align="center" valign="middle">
+      <a href="https://www.fast.bet/ca/" target="_blank">
+        <img src="https://swiperjs.com/images/sponsors/fastbet-bet-ca.png" alt="Fastest Payout Casinos in Canada [2022]" width="160">
+      </a>
+    </td>
+    <td align="center" valign="middle">
+      <a href="https://realcasinoscanada.com/" target="_blank">
+        <img src="https://swiperjs.com/images/sponsors/realcasinoscanada-com.png" alt="Online Casino - Best Online Casinos in Canada 2022 🎖️" width="160">
+      </a>
+    </td>
+    <td align="center" valign="middle">
+      <a href="https://vpnwelt.com/" target="_blank">
+        <img src="https://swiperjs.com/images/sponsors/vpnwelt.png" alt="VPNwelt: VPN Neuigkeiten, Testberichte und Statistik 2022" width="160">
+      </a>
+    </td>
+    <td align="center" valign="middle">
+      <a href="https://chiefcasinos.com/" target="_blank">
+        <img src="https://swiperjs.com/images/sponsors/chiefcasinoscom.png" alt="Online Casino - Best Online Casinos In Canada for 2022" width="160">
+      </a>
+    </td>
+    <td align="center" valign="middle">
+      <a href="https://casinosicuri.info/" target="_blank">
+        <img src="https://swiperjs.com/images/sponsors/casinosicuri.png" alt="casino online sicuri" width="160">
+      </a>
+    </td>
+    <td align="center" valign="middle">
+      <a href="https://followerus.com/" target="_blank">
+        <img src="https://swiperjs.com/images/sponsors/followerus.png" alt="Buy Instagram Followers - Cheap and Easy 2022" width="160">
+      </a>
+    </td>
+    <td align="center" valign="middle">
+      <a href="https://realspyapps.com/" target="_blank">
+        <img src="https://swiperjs.com/images/sponsors/realspyapps.png" alt="Real Spy Apps - Reviews, You Can Trust" width="160">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle">
+      <a href="https://cliquestudios.com" target="_blank">
+        <img src="https://swiperjs.com/images/sponsors/cliquestudios.png" alt="Clique Studios - Creative Digital Transformation" width="160">
+      </a>
+    </td>
+    <td align="center" valign="middle">
+      <a href="https://4-c.at/online-casinos/echtgeld/" target="_blank">
+        <img src="https://swiperjs.com/images/sponsors/online-casino-osterreich.png" alt="Bestes Online Casino Österreich �� Top Spiele 2022 im Test mit 4-c.at" width="160">
+      </a>
+    </td>
+    <td align="center" valign="middle">
+      <a href="https://www.socialboosting.com/buy-tiktok-followers" target="_blank">
+        <img src="https://swiperjs.com/images/sponsors/socialboosting.png" alt="Buy TikTok Followers - 100% Real & Fast | Just $5.00 - SocialBoosting" width="160">
+      </a>
+    </td>
+    <td align="center" valign="middle">
+      <a href="https://sportonlinebetting.net" target="_blank">
+        <img src="https://swiperjs.com/images/sponsors/sportonlinebetting.png" alt="Betting Sites Not On Gamstop » List of Best Bookies in UK - June 2022" width="160">
+      </a>
+    </td>
+    <td align="center" valign="middle">
+      <a href="https://coinmash.co/" target="_blank">
+        <img src="https://swiperjs.com/images/sponsors/coinmash.png" alt="Coinmash - Your entry into Web3, NFTs & DeFi" width="160">
+      </a>
+    </td>
+    <td align="center" valign="middle">
+      <a href="https://casinoallianz.com/casino-bonus-ohne-einzahlung/" target="_blank">
+        <img src="https://swiperjs.com/images/sponsors/casinoallianz.png" alt="neuer casino bonus ohne einzahlung 2022 in deutschland" width="160">
+      </a>
+    </td>
+    <td align="center" valign="middle">
+      <a href="https://gamblorium.com/" target="_blank">
+        <img src="https://swiperjs.com/images/sponsors/gamblorium.png" alt="Gamblorium publishes news, information, and reviews about regulated online gambling operators." width="160">
+      </a>
+    </td>
+    <td align="center" valign="middle">
+      <a href="https://www.istartips.com" target="_blank">
+        <img src="https://swiperjs.com/images/sponsors/istartips.svg" alt="iStarTips - Tips for Software, Apps on Android, iPhone" width="160">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle">
+      <a href="https://stayatcasinos.com" target="_blank">
+        <img src="https://swiperjs.com/images/sponsors/stayatcasinos.png" alt="Betting Sites and New Online Casinos" width="160">
+      </a>
+    </td>
+    <td align="center" valign="middle">
+      <a href="https://playsafecl.com" target="_blank">
+        <img src="https://swiperjs.com/images/sponsors/playsafecl.png" alt="Casino Online Chile ᐉ Aprende Cómo se Juega en un casino online seguro" width="160">
+      </a>
+    </td>
+    <td align="center" valign="middle">
+      <a href="https://limeup.io" target="_blank">
+        <img src="https://swiperjs.com/images/sponsors/limeup.png" alt="Limeup | Product Design Agency" width="160">
+      </a>
+    </td>
+    <td align="center" valign="middle">
+      <a href="https://rushradar.com/" target="_blank">
+        <img src="https://swiperjs.com/images/sponsors/rushradar.png" alt="RushRadar: The Best Articles, Reviews, and Referral Codes" width="160">
+      </a>
+    </td>
+    <td align="center" valign="middle">
+      <a href="https://www.adziv.com/" target="_blank">
+        <img src="https://swiperjs.com/images/sponsors/adziv.png" alt="Adziv Digital | Full-service Digital Marketing Agency" width="160">
+      </a>
+    </td>
+    <td align="center" valign="middle">
+      <a href="https://hellsbet.com/en-au/" target="_blank">
+        <img src="https://swiperjs.com/images/sponsors/hellsbet.png" alt="Rating of best betting sites in Australia" width="160">
       </a>
     </td>
     <td align="center" valign="middle">
@@ -162,13 +419,13 @@ Swiper is not compatible with all platforms, it is a modern touch slider which i
         <img src="https://swiperjs.com/images/sponsors/uk-betting-sites-list.png" alt="UK Betting Sites List 2022 - UK's Full List Of Betting Sites" width="160">
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center" valign="middle">
       <a href="https://cryptocurrencycodes.com" target="_blank">
         <img src="https://swiperjs.com/images/sponsors/cryptocurrencycodes.png" alt="Top FREE Crypto Sign Up Bonuses & Referral Codes" width="160">
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center" valign="middle">
       <a href="https://casinoscrypto.com" target="_blank">
         <img src="https://swiperjs.com/images/sponsors/casinoscryptocom.png" alt="Best Crypto Casinos | Top Bitcoin Gambling Sites (2022)" width="160">
@@ -204,13 +461,13 @@ Swiper is not compatible with all platforms, it is a modern touch slider which i
         <img src="https://swiperjs.com/images/sponsors/betastic.png" alt="Best US Online Casino Sites 2022 ᐅ Top 10 USA Online Casinos" width="160">
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center" valign="middle">
       <a href="https://www.vpncheck.org" target="_blank">
         <img src="https://swiperjs.com/images/sponsors/vpncheck.png" alt="VPNs, Firestick, Kodi & IPTV Tips" width="160">
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center" valign="middle">
       <a href="https://casinoscanada.reviews" target="_blank">
         <img src="https://swiperjs.com/images/sponsors/casinocanada.png" alt="Casino en Ligne Argent Réel au Canada: Meilleurs Sites de Casino" width="160">
@@ -246,15 +503,15 @@ Swiper is not compatible with all platforms, it is a modern touch slider which i
         <img src="https://swiperjs.com/images/sponsors/coin-casinos.png" alt="Best Bitcoin Casinos (April 2022) → Every Crypto Casino Ranked" width="160">
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center" valign="middle">
       <a href="https://1394ta.org" target="_blank">
         <img src="https://swiperjs.com/images/sponsors/1394ta.png" alt="1394TA: Buy Instagram Followers and Likes starting at 1.49$" width="160">
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center" valign="middle">
-      <a href="https://www.freshmed.com.pl" target="_blank">
+      <a href="" target="_blank">
         <img src="https://swiperjs.com/images/sponsors/freshmed.png" alt="Dental clinic in Katowice (Poland). Invisalign, orthodontics, pediatric dentistry." width="160">
       </a>
     </td>
@@ -271,11 +528,6 @@ Swiper is not compatible with all platforms, it is a modern touch slider which i
     <td align="center" valign="middle">
       <a href="https://theinternetslots.com/au/" target="_blank">
         <img src="https://swiperjs.com/images/sponsors/theinternetslots.png" alt="Internet Free Slots | Free Internet Slot Machines to Play for Fun Australia" width="160">
-      </a>
-    </td>
-    <td align="center" valign="middle">
-      <a href="https://www.mysportsinjury.co.uk" target="_blank">
-        <img src="https://swiperjs.com/images/sponsors/mysportsinjury.png" alt="MY Sports Injury Clinic ® Manchester City Centre" width="160">
       </a>
     </td>
     <td align="center" valign="middle">
@@ -395,7 +647,7 @@ Swiper is not compatible with all platforms, it is a modern touch slider which i
       </a>
     </td>
     <td align="center" valign="middle">
-      <a href="https://bettingone.net" target="_blank">
+      <a href="" target="_blank">
         <img src="https://swiperjs.com/images/sponsors/bettingone.png" alt="22bet Mirror Link - Sports Betting - 22bet review" width="160">
       </a>
     </td>
@@ -499,17 +751,12 @@ Swiper is not compatible with all platforms, it is a modern touch slider which i
       </a>
     </td>
     <td align="center" valign="middle">
-      <a href="https://www.targetedwebtraffic.com/buy/buy-targeted-organic-traffic-keyword-targeted-google-organic-traffic/" target="_blank">
-        <img src="https://swiperjs.com/images/sponsors/targetedwebtraffic.png" alt="Buy Targeted Organic Traffic | Organic Search Traffic to Website" width="160">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" valign="middle">
       <a href="https://tankpenge.dk" target="_blank">
         <img src="https://swiperjs.com/images/sponsors/tankpenge.png" alt="LÅN PENGE NU | Hurtige Online lån 2021 | Klik her og Ansøg i dag" width="160">
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center" valign="middle">
       <a href="https://famousblast.com/product/buyfollowers/" target="_blank">
         <img src="https://swiperjs.com/images/sponsors/famousblast.png" alt="Buy Instagram Followers - Cheap & Instant - $3.90 per 1.000" width="160">
@@ -518,11 +765,6 @@ Swiper is not compatible with all platforms, it is a modern touch slider which i
     <td align="center" valign="middle">
       <a href="https://aapeli.net" target="_blank">
         <img src="https://swiperjs.com/images/sponsors/aapeli.png" alt="Aapeli.net | Ilmaiset pelit ja nettipelit (2021)" width="160">
-      </a>
-    </td>
-    <td align="center" valign="middle">
-      <a href="https://casinoclaw.com" target="_blank">
-        <img src="https://swiperjs.com/images/sponsors/casinoclaw.png" alt="Casinoclaw » Reviews, bonuses & free spins" width="160">
       </a>
     </td>
     <td align="center" valign="middle">
@@ -545,16 +787,9 @@ Swiper is not compatible with all platforms, it is a modern touch slider which i
         <img src="https://swiperjs.com/images/sponsors/zamsino.png" alt="Erik Kings Zamsino Bonus seiten" width="160">
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center" valign="middle">
       <a href="https://www.casinoonlineaams.com" target="_blank">
         <img src="https://swiperjs.com/images/sponsors/casinoonlineaams.png" alt="Review of the best online casino in Italy" width="160">
-      </a>
-    </td>
-    <td align="center" valign="middle">
-      <a href="https://onlinecasinohex.ca" target="_blank">
-        <img src="https://swiperjs.com/images/sponsors/casinohex-canada.png" alt="Online Casino HEX - Best Online Casinos in Canada [2021]" width="160">
       </a>
     </td>
     <td align="center" valign="middle">
@@ -562,11 +797,8 @@ Swiper is not compatible with all platforms, it is a modern touch slider which i
         <img src="https://swiperjs.com/images/sponsors/freebets.png" alt="Free Bets" width="160">
       </a>
     </td>
-    <td align="center" valign="middle">
-      <a href="https://bet-italia.info" target="_blank">
-        <img src="https://swiperjs.com/images/sponsors/bet-italia.png" alt="Migliori siti di scommesse e Casino Online - Top [2021] - bookmakers italiani" width="160">
-      </a>
-    </td>
+  </tr>
+  <tr>
     <td align="center" valign="middle">
       <a href="https://www.boosbe.com" target="_blank">
         <img src="https://swiperjs.com/images/sponsors/boosebe.png" alt="Get the most out of Social Media - Boosbe" width="160">
@@ -587,8 +819,6 @@ Swiper is not compatible with all platforms, it is a modern touch slider which i
         <img src="https://swiperjs.com/images/sponsors/casinoexpo.jpg" alt="CasinoExpo casino utan registrering" width="160">
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center" valign="middle">
       <a href="https://cryptocasinos.com" target="_blank">
         <img src="https://swiperjs.com/images/sponsors/cryptocasinos.png" alt="Best Bitcoin Casinos » Find The Best Crypto Casino" width="160">
@@ -609,6 +839,8 @@ Swiper is not compatible with all platforms, it is a modern touch slider which i
         <img src="https://swiperjs.com/images/sponsors/vpsserver-logo.svg" alt="VPS Hosting | Buy Cheap VPS | Free VPS Server 7 Days Trial 🥇" width="160">
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center" valign="middle">
       <a href="https://casinosters.com" target="_blank">
         <img src="https://swiperjs.com/images/sponsors/casinosters.svg" alt="The Best Online Casinos in the UK » Gambling Sites by Casinosters" width="160">
@@ -629,8 +861,6 @@ Swiper is not compatible with all platforms, it is a modern touch slider which i
         <img src="https://swiperjs.com/images/sponsors/goread.png" alt="Instagram likes" width="160">
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center" valign="middle">
       <a href="https://www.estepera.com" target="_blank">
         <img src="https://swiperjs.com/images/sponsors/estepera.png" alt="Hair transplant Turkey" width="160">
@@ -651,6 +881,8 @@ Swiper is not compatible with all platforms, it is a modern touch slider which i
         <img src="https://swiperjs.com/images/sponsors/nettcasinobonus.png" alt="Få bransjens beste casino bonus " width="160">
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center" valign="middle">
       <a href="https://www.5bingosites.com" target="_blank">
         <img src="https://swiperjs.com/images/sponsors/5bingosites-com.png" alt="Exclusive £5 Deposit Bingo Bonuses - £5 Bingo Sites" width="160">
@@ -671,8 +903,6 @@ Swiper is not compatible with all platforms, it is a modern touch slider which i
         <img src="https://swiperjs.com/images/sponsors/aumentosocial-logo.png" alt="Crece en Instagram, Facebook, YouTube y TikTok | AumentoSocial" width="160">
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center" valign="middle">
       <a href="https://paperell.com" target="_blank">
         <img src="https://swiperjs.com/images/sponsors/paperell.svg" alt="Website that Writes Essays for You - Paperell.com" width="160">
@@ -684,18 +914,10 @@ Swiper is not compatible with all platforms, it is a modern touch slider which i
       </a>
     </td>
     <td align="center" valign="middle">
-      <a href="https://writersperhour.com" target="_blank">
-        <img src="https://swiperjs.com/images/sponsors/writers-per-hour.png" alt="Custom Paper Writing and Editing Service | Essay Writing Help" width="160">
-      </a>
-    </td>
-    <td align="center" valign="middle">
       <a href="https://easy-views.org" target="_blank">
         <img src="https://swiperjs.com/images/sponsors/easy-views.png" alt="easy-views.org - High Retention Youtube Views" width="160">
       </a>
     </td>
-    <td align="center" valign="middle"></td>
-    <td align="center" valign="middle"></td>
-    <td align="center" valign="middle"></td>
     <td align="center" valign="middle"></td>
   </tr>
 </table>
@@ -761,12 +983,13 @@ The result is available in `dist/` folder.
 
 ### Running demos:
 
-All demos located in `./playground` folder. There you will find Core (HTML, JS), React, Vue, Svelte and Angular versions.
+All demos located in `./playground` folder. There you will find Core (HTML, JS), React, Vue, Solid, Svelte and Angular versions.
 To open demo, run:
 
 - **Core**: `npm run core`
 - **React**: `npm run react`
 - **Vue**: `npm run vue`
+- **Solid**: `npm run solid`
 - **Svelte**: `npm run svelte`
 - **Angular**: first run `npm run build:prod` and then `npm run angular`
 
